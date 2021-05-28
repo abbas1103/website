@@ -1,0 +1,161 @@
+body{
+	text-align: center;
+	margin: 0px;
+	font-family: 'Merriweather', serif;
+	background-color: #bbe1fa;
+}
+
+p
+{
+	color: #11111;
+	font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+	margin: 50px auto 0 auto;
+	
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	color: #0f4c75;	
+	line-height: 0.9;
+}
+h2
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size:2.5rem;
+	margin-top: 0px;
+	color: #0f4c75;
+	font-weight: normal;	
+
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #3282b8;	
+}
+a
+{
+	color: #3282b8;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	padding: 5px;
+}
+a:hover
+{
+	color: white;
+}
+hr
+   {
+   	 	
+   	border-style: dotted none none none;
+   	border-color: grey;
+   	height:1px;
+   	width: 5%;
+   	border-width: 5px;
+    }
+.top-container
+{
+	background-color: #bbe1fa;
+	position: relative;
+	padding-top:100px;
+	margin-bottom: 30px;
+	
+}
+.middle-container
+{
+	background-color: #bbe1fa;
+}
+.bottom-container
+{
+ 	background-color: #1b262c;
+ 	padding: 5px;
+}	
+.cloud2
+{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+    
+}
+.cloud1
+{
+	position: absolute;
+    right: 300px;
+    top:50px;
+}
+.skillpic
+{
+	height: 200px;
+    width: 200px;
+}
+.profilepic
+{
+	height: 200px;
+    width: 200px;
+}
+.photography
+{
+	height: 200px;
+    width: 200px;
+    
+}
+.market
+{
+	height: 200px;
+    width: 200px;
+}
+
+.undername
+{
+	
+}
+.profile
+{
+	background-color: #bbe1fa;
+	padding:10 auto;
+}
+.skill-row
+{
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+}
+.paddin
+{
+	padding: 0px 10% ;
+
+}
+.row
+{
+	display: flex;
+	grid-column-gap: 50px;
+	justify-content: space-around;
+}
+.Button {
+   -webkit-border-radius: 45px;
+   -moz-border-radius: 45px;
+   border-radius: 45px;
+   height: 50px;
+   line-height: 50px;
+   color: #71C9CE;
+   font-family: Open Sans;
+   width: 222px;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 9px;
+   background-color: #156469;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.foot
+{
+	color: #f6f6f6;
+}
+.bio
+{
+	padding: 0 20%;
+}
